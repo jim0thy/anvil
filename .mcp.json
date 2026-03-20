@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "exa-search": {
+      "type": "http",
+      "url": "https://mcp.exa.ai/mcp",
+      "headers": {
+        "x-api-key": "${EXA_API_KEY}"
+      },
+      "tools": ["*"]
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp@latest"],
+      "tools": ["*"]
+    },
+    "grep-app": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/grep-app-mcp@latest"],
+      "tools": ["*"]
+    }
+  }
+}
