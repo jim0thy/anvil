@@ -16,7 +16,7 @@ copilot plugin install ./anvil
 
 ## What This Does
 
-Atlas turns Copilot CLI into a **multi-agent orchestration system**. Instead of one agent doing everything, tasks are classified and routed to specialists — each optimized for a specific domain. Agents delegate to each other, run in parallel, and chain quality reviews automatically.
+Anvil turns Copilot CLI into a **multi-agent orchestration system**. Instead of one agent doing everything, tasks are classified and routed to specialists — each optimized for a specific domain. Agents delegate to each other, run in parallel, and chain quality reviews automatically.
 
 ### Key Features
 
@@ -78,7 +78,7 @@ Invoke skills explicitly with `/skill-name` or let Copilot auto-load them when r
 
 ## MCP Servers
 
-Atlas configures three external MCP servers. Set the required environment variables to enable them.
+Anvil configures three external MCP servers. Set the required environment variables to enable them.
 
 | Server | Purpose | Setup |
 |---|---|---|
