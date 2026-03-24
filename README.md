@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-copilot plugin install OWNER/anvil
+copilot plugin install jim0thy/anvil
 ```
 
 For local development:
