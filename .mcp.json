@@ -3,9 +3,6 @@
     "exa-search": {
       "type": "http",
       "url": "https://mcp.exa.ai/mcp",
-      "headers": {
-        "x-api-key": "${EXA_API_KEY}"
-      },
       "tools": ["*"]
     },
     "context7": {
