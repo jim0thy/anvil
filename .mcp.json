@@ -12,7 +12,7 @@
     },
     "grep-app": {
       "command": "npx",
-      "args": ["-y", "@anthropic/grep-app-mcp@latest"],
+      "args": ["-y", "@ai-tools-all/grep_app_mcp@latest"],
       "tools": ["*"]
     }
   }
