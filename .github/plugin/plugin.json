@@ -1,7 +1,7 @@
 {
   "name": "anvil",
   "description": "Multi-agent orchestration plugin: 11 specialized agents with subagent delegation, 9 skills, lifecycle hooks, and MCP integrations.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": { "name": "jimgillett" },
   "license": "MIT",
   "keywords": ["multi-agent", "orchestration", "delegation", "subagent", "fleet", "code-quality"],
